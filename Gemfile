@@ -3,6 +3,8 @@
 source "https://rubygems.org"
 
 gem "jekyll-theme-chirpy", "~> 6.2", ">= 6.2.2"
+gem 'jekyll-compose', group: [:jekyll_plugins]
+gem 'wdm', '~> 0.1.1', :install_if => Gem.win_platform?
 
 group :test do
   gem "html-proofer", "~> 4.4"
