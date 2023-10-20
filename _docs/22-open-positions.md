@@ -84,5 +84,6 @@ Length of project: Actual development? not that much I've spent most of the last
 
 
 
+## To Apply
 
-Contact method: DM  - If you have any questions that we forgot to include please feel free to ask. 
+We will setup a forum for this soon for now you may send an email with the subject: "Nemesis Studios Application" to josh.kerr at gmx.com 
