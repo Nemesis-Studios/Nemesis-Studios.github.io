@@ -6,6 +6,7 @@ last_modified_at: 2023-10-20T21:36:18-04:00
 toc: true
 ---
 
+## Coders
 
 **Looking for**: 
 - A Good C# coder.
@@ -15,7 +16,11 @@ toc: true
 	- Written in C# (.NET6) Possibly .NET8 soon
 	- Scripting in C# 10
 	- OOB compatibility with most C#/.NET Libs
-	   
+
+**Status**: Open 🟢
+
+## Artists
+
 - 3D Artist 
 	Characters & Weapons 
 	 -  "Medium Poly" 
@@ -26,7 +31,12 @@ toc: true
 		- Apex Legends
 		- Overwatch
 		- DOTA 2
-	  We will go different directions here and there, but this is a starting point.  Some people call this "Stylized Fantasy" some call it "Hand Panted" the terms are subjective.  but the general rule we want to follow is slightly cartoon-ish textures but not overly.. simply put a good balance between realism and stylized
+
+**Status**: Open 🟢
+
+  We will go different directions here and there, but this is a starting point.  Some people call this "Stylized Fantasy" some call it "Hand Panted" the terms are subjective.  but the general rule we want to follow is slightly cartoon-ish textures but not overly.. simply put a good balance between realism and stylized
+
+## Overview
 
 **Our talent**: Well I'm currently the only team member, the less members required to accomplish the project means more revshare. That said, I'm a jack of all trades,  i can do some 
 
@@ -73,6 +83,6 @@ Length of project: Actual development? not that much I've spent most of the last
 - The one thing we will likely ask is that anyone that contributes to the project sign a release on the assets (code or art) they make for us just so we are covered to use them legally. It's difficult to negotiate compensation for one off works for example, is it fair to give a total rev-share on a single asset? we're not sure, it's open for a discussion at least. 
 
 
-**Status**: Open 🟢
+
 
 Contact method: DM  - If you have any questions that we forgot to include please feel free to ask. 
