@@ -12,25 +12,25 @@ excerpt: >
   We're an upstart Game studio with a passion for gaming.<br />
   <small><a href="https://github.com/nemesis-studios">Github Profile</a></small>
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
+  - image_path: /assets/images/s3dgamess.png
     alt: "customizable"
     title: "Projects"
     excerpt: "An overview of our current projects"
     url: "/overview/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-responsive-feature.png
+  - image_path: /assets/images/designer.png
     alt: "Open Positions"
     title: "Open Positions"
     excerpt: "A Breif overview of open team positions"
     url: "/docs/open-positions/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-free-feature.png
+  - image_path: /assets/images/strideenginess.png
     alt: "Engine"
     title: "Engine"
     excerpt: "Open source \ Written in C# (.NET6)"
-    url: "/docs/license/"
+    url: "/docs/engine/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---
