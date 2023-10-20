@@ -72,7 +72,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : &twitter "nemesisstudios"
+  username               : &twitter "NemesisGStudio"
 facebook:
   username               : &facebook "nemesisstudios"
   app_id                 :
@@ -84,14 +84,14 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://twitter.com/mmistakes"
-    - "https://www.facebook.com/michaelrose"
+    - "https://twitter.com/decryptedchaos"
+    - "https://www.facebook.com/josh.kerr"
 
 # Analytics
 analytics:
   provider               : "google-universal" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          : "UA-2011187-3" # Replace this with your ID, or delete
+    tracking_id          : "G-CDWM2BETGD" # Replace this with your ID, or delete
     anonymize_ip         : true
 
 
@@ -107,7 +107,7 @@ author:
       url: "https://nemesis-studios.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/decryptedchaos"
+      url: "https://twitter.com/archnemesis86"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/decryptedchaos"
@@ -121,7 +121,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/nemesisstudios"
+      url: "https://twitter.com/NemesisGStudio"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/nemesis-studios"
