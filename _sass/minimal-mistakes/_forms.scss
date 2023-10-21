@@ -35,7 +35,7 @@ form {
   }
 
   br {
-    display: none;
+    display: block;
   }
 }
 
@@ -148,7 +148,7 @@ input[type="file"] {
 
 select {
   width: auto;
-  background-color: #fff;
+  //background-color: #fff;
 }
 
 select[multiple],
