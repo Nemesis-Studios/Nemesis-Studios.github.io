@@ -18,8 +18,9 @@
     {% include_cached skip-links.html %}
     {% include masthead.html %}
 
-    <div class="initial-content">
+  <div class="initial-content">
       {{ content }}
+      <!--
       <div align="center" style="margin: 1em 0;">
         <ins class="adsbygoogle"
              style="display:block; border-bottom: initial;"
@@ -28,8 +29,10 @@
              data-ad-format="auto"
              data-full-width-responsive="true"></ins>
       </div>
+      -->
     </div>
-
+  
+ 
     {% if site.search == true %}
       <div class="search-content">
         {% include search/search_form.html %}
