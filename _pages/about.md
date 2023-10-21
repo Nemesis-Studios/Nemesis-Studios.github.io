@@ -22,7 +22,7 @@ Welcome to **Nemesis Studios** - Your Gateway to the Future of Gaming!
 
 ## Who We Are
 
-Nemesis Studios is a cutting-edge game development company founded in [Year of Establishment]. We are passionate about creating immersive and innovative gaming experiences that captivate players around the world. Our team is composed of industry veterans and emerging talents, all united by a common goal: pushing the boundaries of interactive entertainment.
+Nemesis Studios is a cutting-edge game development company founded in 2015. We are passionate about creating immersive and innovative gaming experiences that captivate players around the world. Our team is composed of industry veterans and emerging talents, all united by a common goal: pushing the boundaries of interactive entertainment.
 
 ## Our Vision
 
