@@ -1,22 +1,12 @@
----
-#layout: post
-title: Project Overview
-header:
-  # video:
-  #   id: -PVofD2A9t8
-  #   provider: youtube
-date: 2023-10-06 03:23 -0500
----
-
-# Projects 
-
-## Unamed Multiaplyer Game 
-
-We'll codename this shortly the repo is called SMPGame for now.
-
-This overview is a W.I.P and probably should be rewritten as a dedicated overview but for now we're recycling the Overview section from our Open posistions page.  
-
 ## Overview
+
+**Our talent**: Well I'm currently the only team member, the less members required to accomplish the project means more revshare. That said, I'm a jack of all trades,  i can do some
+
+- Some 3D modeling
+- Some Coding
+- Some Level design  
+  
+I've also been collecting both free and paid 3D assets for years I think i have like 20GB of them at this point.  some may be useful some may need a reskin some might not work for the art style.
 
 **Project**: The project is highly ambitus which may be overwhelming to some, I personally subscribe to a go big or go home mentality.  The game is FPS, it's just what I know and what holds my interest even if its over-done.  It's the concept I understand the best.  
 
@@ -26,17 +16,7 @@ This overview is a W.I.P and probably should be rewritten as a dedicated overvie
 - Art-style loosely chosen.
 - We are using GIT for VCS, the project structure of our engine lends itself well to being versioned in fact, our basic project with a handful of assets our repo is only ~130MB I've seen some engines take 3x that just to create a project.
 - *Note* the repo isn't on a public service yet I maintain an internal repo, that i will push to either Github or Gitlab  i haven't decided yet which one is going to fit best probably Github for better LFS support.
-
-**Our talent**: Well I'm currently the only team member, the less members required to accomplish the project means more revshare. That said, I'm a jack of all trades  
   
-  I can do:
-
-- Some 3D modeling
-- Some Coding
-- Some Level design  
-  
-I've also been collecting both free and paid 3D assets for years I think i have like 20GB of them at this point.  some may be useful some may need a reskin some might not work for the art style.
-
 *Future work*:
 
 - One of the downsides of the engine is we will somewhat need to roll our own netcode/multiplayer. However there are some existing code examples available for that we are evaluating. and since we can easily drop in almost any C# library without the engine complaining too much the sky is kinda the limit.
