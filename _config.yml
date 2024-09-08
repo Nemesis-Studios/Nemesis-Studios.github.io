@@ -105,15 +105,15 @@ author:
     - label: "Nemesis Studios"
       icon: "fas fa-fw fa-link"
       url: "https://nemesis-studios.github.io"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/archnemesis86"
+    #- label: "Twitter"
+    #  icon: "fab fa-fw fa-twitter-square"
+    #  url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/decryptedchaos"
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
-    #   url: "https://instagram.com/mmistakes"
+    #   url: "https://instagram.com/"
 
 
 # Site Footer
